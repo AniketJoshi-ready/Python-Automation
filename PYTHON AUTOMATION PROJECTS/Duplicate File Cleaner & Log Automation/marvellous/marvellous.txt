@@ -1,0 +1,47 @@
+------------------------------------------------------
+this is log file of maervellous scripting 
+------------------------------------------------------
+
+ 
+ while scanning now ,above files deleted at  Wed Aug  6 19:47:25 2025
+ 
+ ------------------------------------------------------
+this is log file of maervellous scripting 
+------------------------------------------------------
+C:\Users\Aniket\OneDrive\Desktop\marvellousinfo\Assignments\Assignment_22test\demo\1.txt 
+ C:\Users\Aniket\OneDrive\Desktop\marvellousinfo\Assignments\Assignment_22test\demo\2.txt 
+ 
+ 
+ while scanning now ,above files deleted at  Wed Aug  6 20:07:30 2025
+ 
+ ------------------------------------------------------
+this is log file of maervellous scripting 
+------------------------------------------------------
+
+ 
+ while scanning now ,above files deleted at  Wed Aug  6 20:08:34 2025
+ 
+ ------------------------------------------------------
+this is log file of maervellous scripting 
+------------------------------------------------------
+C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\1 copy 3.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\1 copy 4.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\1 copy.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\2 copy 3.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\2 copy.txt 
+ 
+ 
+ while scanning now ,above files deleted at  Mon Oct 13 17:05:40 2025
+ 
+ ------------------------------------------------------
+this is log file of maervellous scripting 
+------------------------------------------------------
+C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\1 copy 3.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\1 j.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\2j.txt 
+ C:\Users\Aniket\OneDrive\Desktop\Automated Directory Duplicate File Cleaner with Logging System\demo\2jj.txt 
+ 
+ 
+ while scanning now ,above files deleted at  Mon Oct 13 17:09:16 2025
+ 
+ 
